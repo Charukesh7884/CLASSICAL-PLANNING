@@ -114,5 +114,5 @@ print(plan)
 # Output:
 <img width="1031" height="239" alt="image" src="https://github.com/user-attachments/assets/207ffeaf-22a8-4772-8ea2-93a9be796302" />
 
-# Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
-<h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
+# Result:
+Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
